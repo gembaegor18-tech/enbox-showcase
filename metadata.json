@@ -1,0 +1,6 @@
+{
+  "name": "bat box — Шумозащитные Боксы под Ключ",
+  "description": "Интерактивный конфигуратор и калькулятор готовых силовых установок на базе генератора 8.3 кВт и всепогодных шумозащитных деревянных термобоксов фирмы bat box.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
